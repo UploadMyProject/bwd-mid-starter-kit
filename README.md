@@ -1,3 +1,7 @@
+**Nama:** Andini Ayu Lestari
+**NIM:** 25120100069
+
+
 # KelasKita — Platform Kursus Online untuk Generasi Digital
 
 > **Belajar skill baru, kapan saja, di mana saja.**
@@ -181,9 +185,9 @@ Akses aplikasi di: `http://localhost:8080`
 
 ## Lembar Jawaban
 
-**Nama:** [Isi Nama Anda]
+**Nama:** Andini Ayu Lestari
 
-**NIM:** [Isi NIM Anda]
+**NIM:** 25120100069
 
 ### Profil Startup
 - **Nama Startup:** KelasKita
